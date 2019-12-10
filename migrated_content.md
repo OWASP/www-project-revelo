@@ -19,7 +19,7 @@ auto-migrated: 1
 <tbody>
 <tr class="odd">
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{Template:Project About</p></td>
+<p><span style="color:#ff0000"> Template:Project About</p></td>
 <td><p>project_name = <strong>OWASP Revelo Project</strong></p></td>
 <h2 id="owasp_tool_project_template">OWASP Tool Project Template</h2>
 <p><span style="color:#ff0000"></p>
