@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Tushar Kulkarni](mailto://tushar.kulkarni@owasp.org)
+* [Tushar Kulkarni](mailto:tushar.kulkarni@owasp.org)
